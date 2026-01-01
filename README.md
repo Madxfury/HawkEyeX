@@ -1,9 +1,15 @@
 # HawkEyeX – Intelligent Face Tracking & Laser Alignment System
 
 <div align="center">
-  <img src="https://github.com/Madxfury/HawkEyeX/blob/2fc014daadd29d3e705ca5c425f19dd98e96d7ff/Assets/CV_Face_Traking_Interface.jpg" alt="HawkEyeX Interface" height="220" />
+  <img 
+    src="https://github.com/Madxfury/HawkEyeX/blob/9ba00148177d6d373603b8aa30fc2598ebdf2a63/Assets/HawkeyeX_Logo.png"
+    alt="HawkEyeX Logo"
+    height="250"
+    style="margin-bottom: 6px;"
+  />
+  
   <br />
-  <h3><i>"From Vision to Motion — Closing the AI–Hardware Loop"</i></h3>
+  <h3><i>{From Vision to Motion : Closing the AI–Hardware Loop}</i></h3>
 </div>
 
 <br />
@@ -41,7 +47,7 @@ Key challenges include:
 
 ### 🏗️ System Architecture
 <p align="center">
-  <img src="https://github.com/Madxfury/HawkEyeX/blob/8427df59fa6e839b9ccff417e20e44e016d338b1/Assets/System_Architecture.png" width="650"/>
+  <img src="https://github.com/Madxfury/HawkEyeX/blob/8427df59fa6e839b9ccff417e20e44e016d338b1/Assets/System_Architecture.png" width="800"/>
 </p>
 
 ### 🔌 Hardware Setup
@@ -191,3 +197,8 @@ https://drive.google.com/file/d/1mSrebXJIhjzprI4NYx8MaNPxpr59gtvd/view
 - [ ] PID-based servo smoothing
 - [ ] Wireless control (ESP32 / Wi-Fi / Bluetooth)
 - [ ] Object tracking beyond faces
+---
+
+<div align="center">
+  <sub><i>Built with ❤️ by Sanskar</i></sub>
+</div>
