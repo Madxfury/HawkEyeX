@@ -130,13 +130,33 @@ servoY = np.interp(face_y, [0, frame_height], [180, 0])
 ```
 ## 🔌 Hardware Connections
 
-| Component        | Arduino Pin               |
-|------------------|---------------------------|
-| Servo (X-axis)   | Pin 9                     |
-| Servo (Y-axis)   | Pin 10                    |
-| Laser Module     | Mounted on Y-axis servo   |
+<div align="center">
 
-> **Note:** Arduino must be flashed with **StandardFirmata** before running the Python code.
+<table>
+  <tr>
+    <th>Component</th>
+    <th>Arduino Pin</th>
+  </tr>
+  <tr>
+    <td>Servo (X-axis)</td>
+    <td>Pin 9</td>
+  </tr>
+  <tr>
+    <td>Servo (Y-axis)</td>
+    <td>Pin 10</td>
+  </tr>
+  <tr>
+    <td>Laser Module</td>
+    <td>Mounted on Y-axis servo</td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <sub><b>Note:</b> Arduino must be flashed with <b>StandardFirmata</b> before running the Python code.</sub>
+</p>
+
 
 ---
 
