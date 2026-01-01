@@ -4,7 +4,7 @@
   <img 
     src="https://github.com/Madxfury/HawkEyeX/blob/9ba00148177d6d373603b8aa30fc2598ebdf2a63/Assets/HawkeyeX_Logo.png"
     alt="HawkEyeX Logo"
-    height="250"
+    height="200"
     style="margin-bottom: 6px;"
   />
   
