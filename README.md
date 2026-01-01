@@ -220,5 +220,5 @@ https://drive.google.com/file/d/1mSrebXJIhjzprI4NYx8MaNPxpr59gtvd/view
 ---
 
 <div align="center">
-  <sub><i>Built with ❤️ by Sanskar</i></sub>
+  <sub><i>Built with</i></sub> <sub><b>❤️</b></sub> <sub><i> by Sanskar</i></sub>
 </div>
