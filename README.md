@@ -202,7 +202,7 @@ https://drive.google.com/file/d/1mSrebXJIhjzprI4NYx8MaNPxpr59gtvd/view
 
 ## 🌍 Applications
 
-- Human-following robots  
+- Human-following robots. 
 - Autonomous camera tracking systems  
 - Smart surveillance platforms  
 - Interactive AI installations  
